@@ -1,3 +1,3 @@
-# Orientação-de-objeto-py
+# Orientação-objeto-py
 
 Em breve
