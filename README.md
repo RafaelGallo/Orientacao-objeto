@@ -1,3 +1,2 @@
 # Orientação-objeto-py
-
-Em breve
+Projetos voltado para programação orientação objetos com python.
