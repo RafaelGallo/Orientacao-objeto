@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 class funcionario:
     def __init__(self):
         self.nome = None
@@ -31,10 +25,6 @@ dados_funcionario.exibir()
 funcionario1 = funcionario()
 funcionario1.exibir()
 
-
-# In[ ]:
-
-
 class Aluno:
     def __init__(self, ra, nome):
         self.ra = ra
@@ -55,10 +45,6 @@ aluno1.adicionar_disciplina("Linguagem de Programação II")
 aluno1.adicionar_disciplina("Banco de Dados")
 aluno1.exibir()
 
-
-# In[ ]:
-
-
 class Livro:
     # construtor recebe valores iniciais que serão atribuidos aos atributos
     def __init__(self, titulo, autor, preco):
@@ -71,7 +57,6 @@ class Livro:
         print("Autor: ", self.autor)
         print("Preço: ", self.preco)
 
-
 # cria objeto
 outro_livro = Livro("Titulo do Livro", "Nome do autor do livro", 50.0)
 outro_livro.exibir_dados()
@@ -81,4 +66,3 @@ livro1 = Livro("Titulo", "nome do autor", 30)
 # modifica o preço
 livro1.preco = 29.90
 livro1.exibir_dados()
-
