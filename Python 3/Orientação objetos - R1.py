@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 class Funcionario():
     def __init__(self):
         self.nome1 = "Karla"
@@ -18,27 +12,11 @@ class Funcionario():
 Funcionario1 = Funcionario()
 Funcionario1.nome1
 
-
-# In[ ]:
-
-
 Funcionario1.nome2
-
-
-# In[ ]:
-
 
 Funcionario1.nome3
 
-
-# In[ ]:
-
-
 Funcionario1.nome4
-
-
-# In[ ]:
-
 
 class Frutas():
     def __init__(self):
@@ -50,28 +28,9 @@ class Frutas():
 
 Frutas1 = Frutas()
 Frutas1.nome1
-
-
-# In[ ]:
-
-
 Frutas1.nome2
-
-
-# In[ ]:
-
-
 Frutas1.nome3
-
-
-# In[ ]:
-
-
 Frutas1.nome4
-
-
-# In[ ]:
-
 
 class funcionario:
     def __init__(self):
@@ -96,13 +55,5 @@ class funcionario:
         
 dados_funcionario = funcionario()
 dados_funcionario.exibir()
-
 funcionario1 = funcionario()
 funcionario1.exibir()
-
-
-# In[ ]:
-
-
-
-
